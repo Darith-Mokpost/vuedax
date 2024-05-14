@@ -1,0 +1,33 @@
+{
+  "name": "vuedax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digitals-X/vuedax.git"
+  },
+  "keywords": [
+    "Vuedax",
+    "vue",
+    "components"
+  ],
+  "author": "Digitals X",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Digitals-X/vuedax/issues"
+  },
+  "homepage": "https://github.com/Digitals-X/vuedax#readme",
+  "devDependencies": {
+    "lerna": "^7.4.1",
+    "shelljs": "^0.8.5",
+    "vue": "^3.3.7"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.200"
+  }
+}

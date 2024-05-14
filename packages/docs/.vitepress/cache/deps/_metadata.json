@@ -1,0 +1,50 @@
+{
+  "hash": "bcf6eb88",
+  "browserHash": "73dd0ce2",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "269fe3e3",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "38ad2f39",
+      "needsInterop": false
+    },
+    "vue-facing-decorator": {
+      "src": "../../../../vuedax/node_modules/vue-facing-decorator/dist/esm/index.js",
+      "file": "vue-facing-decorator.js",
+      "fileHash": "d6cb2d9c",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../../vuedax/node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "a8b808d1",
+      "needsInterop": false
+    },
+    "date-fns": {
+      "src": "../../../../vuedax/node_modules/date-fns/esm/index.js",
+      "file": "date-fns.js",
+      "fileHash": "8f658467",
+      "needsInterop": false
+    },
+    "date-fns-tz": {
+      "src": "../../../../vuedax/node_modules/date-fns-tz/esm/index.js",
+      "file": "date-fns-tz.js",
+      "fileHash": "20e00dd4",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YW53L7UT": {
+      "file": "chunk-YW53L7UT.js"
+    },
+    "chunk-UXIASGQL": {
+      "file": "chunk-UXIASGQL.js"
+    }
+  }
+}

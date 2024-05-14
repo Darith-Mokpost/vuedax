@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2",
+    "stylus": "^0.60.0",
+    "vue": "^3.3.7"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.24"
+  }
+}
